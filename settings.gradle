@@ -1,1 +1,1 @@
-include ':app', 'libwheel'
+include ':app', ':libwheel'
